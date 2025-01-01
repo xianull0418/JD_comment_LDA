@@ -1,0 +1,24 @@
+# Web应用框架
+streamlit>=1.28.0
+
+# 数据处理
+pandas>=2.0.0
+numpy>=1.24.0
+
+# 网页爬虫
+selenium>=4.15.0
+webdriver-manager>=4.0.0
+requests>=2.31.0
+
+# 文本处理和分析
+jieba>=0.42.1
+gensim>=4.3.0
+pyLDAvis>=3.4.0
+
+# 可视化
+matplotlib>=3.7.0
+wordcloud>=1.9.0
+
+# 工具库
+python-dateutil>=2.8.2
+tqdm>=4.65.0 
